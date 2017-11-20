@@ -33,8 +33,7 @@
     "postcss.config.js",
     "rollup.config.js",
     "package.json",
-    "package-lock.json",
-    "*.md"
+    "package-lock.json"
   ],
   "dependencies": {
     "jquery": ">= 1.9.1"
