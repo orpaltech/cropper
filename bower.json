@@ -1,0 +1,44 @@
+{
+  "name": "cropper",
+  "version": "3.1.3",
+  "main": [
+	"dist/cropper.js",
+	"dist/cropper.css"
+  ],
+  "keywords": [
+    "image",
+    "crop",
+    "cropper",
+    "cropping",
+    "move",
+    "zoom",
+    "rotate",
+    "scale",
+    "jquery",
+    "plugin",
+    "jquery-plugin",
+    "html",
+    "css",
+    "javascript",
+    "front-end",
+    "web",
+    "development"
+  ],
+  "ignore": [
+    "**/.*",
+    "src",
+    "docs",
+    "examples",
+    "test",
+    "postcss.config.js",
+    "rollup.config.js",
+    "package.json",
+    "package-lock.json",
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "homepage": "https://fengyuanchen.github.io/cropper"
+}
+
